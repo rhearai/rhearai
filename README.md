@@ -9,7 +9,7 @@ I love transforming raw data into insights, building dashboards, and solving rea
 
 📚 Currently learning: **Tableau, Python automation, Data Analytics roadmaps**  
 💬 Ask me about: SQL, GCP data pipelines, visualization, compliance data workflows  
-📁 Check out my portfolio: *[Add link here]*
+
 
 ---
 
@@ -62,12 +62,12 @@ I'm driven by:
 - Web Scraping Projects  
 - Data Cleaning & EDA Notebooks  
 
-👉 *Portfolio link coming soon—stay tuned!*
+
 
 ---
 
 ## 💬 Let’s Connect
 <p align="left">
-<a href="YOUR_LINKEDIN_URL"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/rhearai/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="YOUR_TABLEAU_URL"><img height="30" src="https://img.shields.io/badge/Tableau-Public-orange?style=for-the-badge&logo=tableau&logoColor=white"></a>
 </p>
