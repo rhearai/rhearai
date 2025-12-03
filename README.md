@@ -69,5 +69,5 @@ I'm driven by:
 ## 💬 Let’s Connect
 <p align="left">
 <a href="https://www.linkedin.com/in/rhearai/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="YOUR_TABLEAU_URL"><img height="30" src="https://img.shields.io/badge/Tableau-Public-orange?style=for-the-badge&logo=tableau&logoColor=white"></a>
+<a href="https://public.tableau.com/app/profile/rhea.rai/vizzes"><img height="30" src="https://img.shields.io/badge/Tableau-Public-orange?style=for-the-badge&logo=tableau&logoColor=white"></a>
 </p>
